@@ -1,0 +1,65 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 40px 0;
+    background: #1f2d3d;
+    color: white;
+    border-radius: 10px;
+}
+
+.tagline {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+.contact p {
+    margin: 5px 0;
+}
+
+section {
+    margin: 40px 0;
+}
+
+h2 {
+    border-left: 5px solid #1f2d3d;
+    padding-left: 10px;
+    color: #1f2d3d;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.skills span {
+    display: inline-block;
+    background: #1f2d3d;
+    color: white;
+    padding: 8px 12px;
+    margin: 5px;
+    border-radius: 20px;
+    font-size: 14px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #1f2d3d;
+    color: white;
+    border-radius: 10px;
+}
